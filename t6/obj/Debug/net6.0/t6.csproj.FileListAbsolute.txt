@@ -1,0 +1,15 @@
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\sem5\t6\obj\Debug\net6.0\t6.csproj.AssemblyReference.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\sem5\t6\obj\Debug\net6.0\t6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\sem5\t6\obj\Debug\net6.0\t6.AssemblyInfoInputs.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\sem5\t6\obj\Debug\net6.0\t6.AssemblyInfo.cs
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\sem5\t6\obj\Debug\net6.0\t6.csproj.CoreCompileInputs.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\sem5\t6\bin\Debug\net6.0\t6.exe
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\sem5\t6\bin\Debug\net6.0\t6.deps.json
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\sem5\t6\bin\Debug\net6.0\t6.runtimeconfig.json
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\sem5\t6\bin\Debug\net6.0\t6.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\sem5\t6\bin\Debug\net6.0\t6.pdb
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\sem5\t6\obj\Debug\net6.0\t6.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\sem5\t6\obj\Debug\net6.0\refint\t6.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\sem5\t6\obj\Debug\net6.0\t6.pdb
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\sem5\t6\obj\Debug\net6.0\t6.genruntimeconfig.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\sem5\t6\obj\Debug\net6.0\ref\t6.dll
